@@ -1,4 +1,4 @@
-# 👀 Hi, I'm Sparshoza!
+# 👀 Hi, I'm Sparsh Oza!
 
 🎓 Computer Science graduating student at Stevens Institute of Technology with my masters in computer science, passionate about programming and constantly exploring new tech stacks. I love the thrill of solving problems with innovative solutions.
 
