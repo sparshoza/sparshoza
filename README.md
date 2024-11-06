@@ -37,7 +37,4 @@
 <br />
 
 
-### 📊 Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sparshoza&show_icons=true&theme=gruvbox)
 
